@@ -1,0 +1,15 @@
+.idea
+.vscode
+
+.DS_Store
+._.DS_Store
+
+.gz
+.pt
+.dSYM
+
+data
+
+CMakeFiles
+cmake_install.cmake
+CMakeCache.txt

@@ -1,0 +1,25 @@
+make install
+[  0%] Built target libkineto_defs.bzl
+[ 75%] Built target kineto_base
+[ 83%] Built target kineto_api
+[ 87%] Built target kineto
+[100%] Built target fmt
+Install the project...
+-- Install configuration: "Release"
+-- Installing: /usr/local/lib/libkineto.a
+-- Installing: /usr/local/include/kineto/AbstractConfig.h
+-- Installing: /usr/local/include/kineto/ActivityProfilerInterface.h
+-- Installing: /usr/local/include/kineto/ActivityTraceInterface.h
+-- Installing: /usr/local/include/kineto/ActivityType.h
+-- Installing: /usr/local/include/kineto/Config.h
+-- Installing: /usr/local/include/kineto/ClientInterface.h
+-- Installing: /usr/local/include/kineto/GenericTraceActivity.h
+-- Installing: /usr/local/include/kineto/IActivityProfiler.h
+-- Installing: /usr/local/include/kineto/ILoggerObserver.h
+-- Installing: /usr/local/include/kineto/ITraceActivity.h
+-- Installing: /usr/local/include/kineto/TraceSpan.h
+-- Installing: /usr/local/include/kineto/ThreadUtil.h
+-- Installing: /usr/local/include/kineto/libkineto.h
+-- Installing: /usr/local/include/kineto/time_since_epoch.h
+-- Installing: /usr/local/share/cmake/kineto/kinetoLibraryConfig.cmake
+-- Installing: /usr/local/share/cmake/kineto/kinetoLibraryConfig-release.cmake

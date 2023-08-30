@@ -1,0 +1,17 @@
+/usr/local/lib/libkineto.a
+/usr/local/include/kineto/AbstractConfig.h
+/usr/local/include/kineto/ActivityProfilerInterface.h
+/usr/local/include/kineto/ActivityTraceInterface.h
+/usr/local/include/kineto/ActivityType.h
+/usr/local/include/kineto/Config.h
+/usr/local/include/kineto/ClientInterface.h
+/usr/local/include/kineto/GenericTraceActivity.h
+/usr/local/include/kineto/IActivityProfiler.h
+/usr/local/include/kineto/ILoggerObserver.h
+/usr/local/include/kineto/ITraceActivity.h
+/usr/local/include/kineto/TraceSpan.h
+/usr/local/include/kineto/ThreadUtil.h
+/usr/local/include/kineto/libkineto.h
+/usr/local/include/kineto/time_since_epoch.h
+/usr/local/share/cmake/kineto/kinetoLibraryConfig.cmake
+/usr/local/share/cmake/kineto/kinetoLibraryConfig-release.cmake
