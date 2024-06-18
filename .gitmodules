@@ -1,0 +1,16 @@
+[submodule "ZLMediaKit"]
+	path = ZLMediaKit
+	url = git@github.com:ZLMediaKit/ZLMediaKit.git
+	branch = master
+[submodule "llama.cpp"]
+	path = llama.cpp
+	url = git@github.com:ggerganov/llama.cpp.git
+	branch = master
+[submodule "whisper.cpp"]
+	path = whisper.cpp
+	url = git@github.com:ggerganov/whisper.cpp.git
+	branch = master
+[submodule "llm.c"]
+	path = llm.c
+	url = git@github.com:karpathy/llm.c.git
+	branch = master
