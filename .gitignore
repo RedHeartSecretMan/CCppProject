@@ -4,10 +4,13 @@
 .idea/
 .vscode/
 .cache/
+.env/
+.cargo/
 .venv*/
 .conda*/
 
 __pycache__/
+.pytest_cache/
 .ipynb_checkpoints/
 *.dSYM/
 *.egg-info/
@@ -18,6 +21,8 @@ __pycache__/
 *builds/
 *dist/
 *dists/
+*target/
+*targets/
 *log/
 *logs/
 *result/
@@ -38,6 +43,16 @@ __pycache__/
 *.tiff
 *.gif
 *.svg
+
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+*.mp3
+*.wav
+*.aac
+*.flac
 
 *.txt
 *.csv
@@ -69,6 +84,8 @@ __pycache__/
 *.bin
 *.trt
 *.onnx
+*.model
+*.gguf
 *.safetensors
 *.torchscript
 
